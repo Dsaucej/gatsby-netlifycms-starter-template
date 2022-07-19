@@ -1,39 +1,26 @@
 ---
-templateKey: 'blog-post'
-title: 'A very important heading that makes little sense'
-date: 2018-07-21T15:04:10.000Z
-featuredpost: false
-featuredimage: /img/image3.png
+templateKey: blog-post
+title: Ukraine Displaced Population to Hit 6.7 Million, World Pledges Financial
+  Support
+date: 2022-07-19T18:18:59.837Z
 description: >-
-  Nostrum minus nesciunt, adipisci unde ratione magnam explicabo ex ut quisquam libero aspernatur iste inventore odit
+  
+  Ukraine Displaced Population to Hit 6.7 Million, World Pledges Financial Support
+featuredpost: true
+featuredimage: /img/saveukraine.org-95213-.jpg
 tags:
-  - blog
-  - luxury
-  - beauty
-  - lifestyle
+  - Russian AggressionWar in Ukraine
 ---
-# h1: Heading
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum minus nesciunt, adipisci unde ratione magnam explicabo ex ut quisquam libero aspernatur iste inventore odit, animi optio, eos laboriosam accusamus aliquam quia ullam vero velit. Pariatur impedit a fuga harum provident enim inventore. Doloribus enim, quis optio sapiente corrupti fuga nobis?
 
-Nostrum minus nesciunt, adipisci unde ratione magnam explicabo ex ut quisquam libero aspernatur iste inventore odit, animi optio, eos laboriosam accusamus aliquam quia ullam vero velit. Pariatur impedit a fuga harum provident enim inventore. 
+The conflict in eastern Ukraine and the annexation of Crimea started back in 2014 resulted in the full-fledged war launched by Russia on 24th February 2022. This violation triggered the fastest-growing refugee emergency due to the war, humanitarian crisis and targeted attacks on civilians. Humanitarian situation:Prior to the Russian invasion, most of the 3.16 mln people affected by the conflict were displaced in southeastern Ukraine in 2014. Now, as a result of the invasion, the UN reports over 13,000 civilians have been killed, with 3.5 million IDPs (internally displaced persons) and another 1.2 million becoming refugees. This number is predicted to increase dramatically to 6.7 million IDPs, 4.3 million of whom will be in need of emergency humanitarian assistance, states the UN Commissioner for Human Rights. Global financial support. According to the UN estimates, financial needs for an urgent response to the situation in Ukraine are estimated at $1.7 billion to fund humanitarian work. It is planned to allocate $550.6 million from this fund to finance required humanitarian activities in countries such as Poland, Hungary, and Romania that have accepted refugees from Ukraine. The UK has pledged over £400 million of financial aid to the Ukrainian Government’s budget to support Ukraine’s economy, £40 million of which is allocated to humanitarian needs, and another £80 million for supporting refugees in neighboring countries. The World Bank, European Union, and the United States are among other groups who have pledged significant aid. Volunteers help Many volunteers around the world raise funds and donate supplies to Ukraine. Artists, musicians, and local communities abroad raise money for a charity helping those affected by the conflict in Ukraine. Local charities in Ukraine have joined forces and raised millions to provide immediate assistance to IDPs and those in need.  Their work and dedication are priceless and crucial for Ukrainians, as is the support of the whole world.
 
-## h2: sub-heading
 
-Consectetur adipisicing elit. Fuga sint officia enim quas dignissimos tenetur omnis. Dolor quas accusamus doloremque consequuntur temporibus asperiores provident accusantium delectus. Quidem ex optio ipsam incidunt dolores porro omnis molestias consequatur hic? Doloribus at illum itaque praesentium iusto odio magnam, enim vero eligendi facere sed quam. Dolore eligendi deserunt dicta molestiae beatae incidunt. Officia nobis amet neque pariatur animi officiis soluta magni sed, quod accusamus!
 
->Rem odit deleniti magnam cupiditate beatae illum illo, vero ipsa culpa distinctio placeat, saepe perspiciatis soluta? Odio quo excepturi, perferendis adipisci, ratione ipsam quasi mollitia voluptates qui consectetur, accusantium eaque dolorem aliquam eum!
 
-Commodi consequuntur, quasi neque rerum totam dolorem quae ex saepe quod maiores quis eveniet alias esse fuga dolore, velit suscipit rem, asperiores enim sapiente illo? Rem odit deleniti magnam cupiditate beatae illum illo, vero ipsa culpa distinctio placeat, saepe perspiciatis soluta? Odio quo excepturi, perferendis adipisci, ratione ipsam quasi mollitia voluptates qui consectetur, accusantium eaque dolorem aliquam eum! Similique dicta nostrum autem, alias, accusantium ducimus repellat praesentium excepturi odio quod facilis dolore beatae eaque ab quam soluta hic minima quos possimus eos? Delectus, quam ducimus veniam aspernatur iure ut porro nam molestias.
 
-## h2: another sub-heading
 
-Nostrum minus nesciunt, adipisci unde ratione magnam explicabo ex ut quisquam libero aspernatur iste inventore odit, animi optio, eos laboriosam accusamus aliquam quia ullam vero velit. Pariatur impedit a fuga harum provident enim inventore. 
 
-Ullam eaque natus doloribus sequi autem explicabo dolore? Necessitatibus distinctio, odio, impedit sed quia excepturi quisquam doloribus perferendis quis accusamus nam ipsum magni. Eius, architecto at. Placeat dolores delectus, hic et, ab est vitae dolorem, dignissimos aperiam voluptatem possimus neque molestias quis asperiores ratione quae quibusdam beatae vel aliquid. Ut, suscipit rem beatae placeat officiis veritatis, ipsam eligendi necessitatibus libero ullam consectetur numquam nemo voluptate similique molestias ipsum nobis quod quo saepe ea quibusdam illum iure. Adipisci pariatur aut quos quas sunt, reiciendis culpa quasi! Veniam, quisquam quae repellat eaque temporibus placeat est quidem dolore natus asperiores itaque.
 
-### h3: sub-sub-heading
 
-Dolor est soluta explicabo! Necessitatibus laudantium quam laboriosam error quas molestias debitis nostrum aspernatur beatae suscipit, dolorem et fuga obcaecati, vitae voluptates mollitia odio, fugit voluptatem quia dolores. Fuga soluta reiciendis hic porro.
-
----
+- - -
