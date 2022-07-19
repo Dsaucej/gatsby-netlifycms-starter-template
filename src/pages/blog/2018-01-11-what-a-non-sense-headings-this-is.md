@@ -1,37 +1,19 @@
 ---
-templateKey: 'blog-post'
-title: 'What a Non Sense headings this is'
-date: 2018-01-11T15:04:10.000Z
+templateKey: blog-post
+title: Russia Escalates Attacks On Ukraine’s Civilian Areas, Destroying
+  Maternity Hospital
+date: 2022-07-19T18:09:10.326Z
+description: Quis excepturi reiciendis beatae pariatur fugiat. Et delectus
+  distinctio reprehenderit quos
 featuredpost: true
-featuredimage: /img/image4.png
-description: Quis excepturi reiciendis beatae pariatur fugiat. Et delectus distinctio reprehenderit quos
+featuredimage: /img/saveukraine.org-636-2.jpg
 tags:
-  - lifestyle
-  - luxury
-  - how to
+  - Russian AggressionWar in Ukraine
 ---
+Russia Escalates Attacks On Ukraine’s Civilian Areas, Destroying Maternity Hospital
 
-# h1 : Heading
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque deleniti consequatur aliquid ab, accusamus praesentium vel eligendi ullam, at eaque animi facere harum consequuntur eius perferendis esse vero! Consequatur quia optio corporis id laudantium exercitationem, placeat ea delectus, non rem eveniet ullam! Magnam, natus numquam? Sit, amet. Modi, sit sed.
 
-* Consequatur
-* Eligendi
-* perferendis
-* Et delectus
-* reprehenderit
-* tempora
+by Save Ukraine EN No Comments on Russia Escalates Attacks On Ukraine’s Civilian Areas, Destroying Maternity Hospital
 
-Quis excepturi reiciendis beatae pariatur fugiat. Et delectus distinctio reprehenderit quos. Totam voluptas praesentium enim aut maxime eaque repellat nostrum nesciunt necessitatibus, sint ipsum harum deleniti quaerat ullam ea ipsam minima. Eligendi maxime quis atque sed molestiae, esse eos tempora perferendis ex.
-
-## h2 : Sub-heading
-
-Veniam, nobis. Quia saepe iure minus ab facere accusamus adipisci dolorem cupiditate non suscipit praesentium ipsam animi enim dolore ullam nihil omnis deleniti sequi eos sed ex, fugiat nam ipsum architecto. Consequatur quas similique inventore dolorem alias amet dignissimos vero distinctio nobis rem temporibus, qui assumenda et quam doloribus non. Quis excepturi reiciendis beatae pariatur fugiat. Et delectus distinctio reprehenderit quos
-
-### h3 : sub-sub-heading
-
-Est omnis mollitia officiis optio dolores quae veritatis rerum autem iure cum reiciendis, delectus qui labore, excepturi illo obcaecati quibusdam asperiores illum. Dolorum aliquam sit eum, illum ad, nostrum quaerat vitae corporis, laboriosam quasi iusto fugit! Natus explicabo fugiat fugit inventore voluptatum vel at ut temporibus. Qui dolorum voluptatem dolores, tenetur ex tempore eius doloribus fugiat quo esse officiis animi perspiciatis quod ea suscipit consequuntur earum nihil beatae distinctio? Laudantium, quod reprehenderit deleniti id dolore nostrum aliquid velit doloribus sint atque quidem quo beatae error officiis cumque unde, odit voluptate consequatur veritatis, maxime dolor libero magni autem
-
-![flavor wheel](/img/flavor_wheel.jpg)
-
-Corrupti, consequatur voluptates impedit blanditiis unde et nisi doloremque eaque voluptas ullam repudiandae, obcaecati error! Maxime adipisci molestias corrupti sint nostrum, sit accusantium dolor distinctio ipsam culpa sapiente soluta labore officiis earum quas amet dolorum illum, dolorem ea harum minima non alias, odio quos. Tempora mollitia dolores, provident natus autem culpa quae officia, sunt vitae nesciunt et explicabo omnis nemo similique dolorum a, asperiores ea optio architecto quaerat dolor odio. Doloremque obcaecati, velit dolores et dignissimos facilis odit, nulla id ducimus eius esse quam quibusdam? Aspernatur nam, amet assumenda voluptate excepturi sit magni omnis similique doloribus maiores quo autem atque odit nesciunt mollitia ab quibusdam corporis iure totam dolorum laboriosam a. Ratione vitae voluptatibus neque
+Russia intensifies attacks in Ukraine, deploying heavy weaponry and killing thousands of civilians, shelling the residential neighborhoods, and even disrupting Ukrainian efforts to evacuate residents from the attacked cities. On Wednesday, 9th of March, Russian airstrikes hit a maternity hospital in the besieged city of Mariupol in Ukraine, injuring at least 17. The hospital is still operating, although employees said the facility was badly damaged by the strike. The attack occurred two days after the World Health Organization declared 18 attacks on health facilities in Ukraine. It also followed Ukraine’s attempt to create humanitarian corridors for civilians trapped in the fighting, which were agreed with Russia but violently shelled four days in a row. The attacks shattered a supposed cease-fire by Russia and caused international outrage, with the European Union and the U.S. threatening more sanctions against Russia.  Residents of the blockaded city of Mariupol continue to experience shortages of food, medicine, and fuel, as well as a breakdown in basic services such as electricity. As declared by Ukraine’s national security adviser Oleksiy Danilov, the strategic objective of Russia is to encircle Ukrainian forces and create a situation of humanitarian disaster for the civilian population.  President Volodymyr Zelensky expressed his horror by describing the situation as “beyond an atrocity”, and appealed again to the West to impose a no-fly zone over Ukraine, so Russia would be unable to continue its “genocide.”
