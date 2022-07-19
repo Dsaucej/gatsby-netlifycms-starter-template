@@ -7,10 +7,10 @@ description: Russia Escalates Attacks On Ukraine’s Civilian Areas, Destroying
 featuredpost: true
 featuredimage: /img/saveukraine.org-241-3.jpg
 tags:
-  - blog
-  - dummy text
-  - how to
-  - tech
+  - Russia
+  - Ukraine
+  - War
+  - Help
 ---
 Over 20,000 Volunteers Join International Legion to Fight Against Russia
 
