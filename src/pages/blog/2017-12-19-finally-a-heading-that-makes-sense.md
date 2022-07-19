@@ -1,33 +1,31 @@
 ---
-templateKey: 'blog-post'
-title: 'Finally a heading that makes sense'
+templateKey: blog-post
+title: Over 20,000 Volunteers Join International Legion to Fight Against Russia
 date: 2017-12-19T15:04:10.000Z
+description: Russia Escalates Attacks On Ukraine’s Civilian Areas, Destroying
+  Maternity Hospital
 featuredpost: true
-featuredimage: /img/image5.png
-description: Laudantium, quod reprehenderit deleniti id dolore nostrum aliquid velit doloribus sint atque quidem
+featuredimage: /img/saveukraine.org-241-3.jpg
 tags:
   - blog
   - dummy text
   - how to
   - tech
 ---
+Over 20,000 Volunteers Join International Legion to Fight Against Russia
 
-# h1: Heading
+March 11, 2022
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque deleniti consequatur aliquid ab, accusamus praesentium vel eligendi ullam, at eaque animi facere harum consequuntur eius perferendis esse vero! Consequatur quia optio corporis id laudantium exercitationem, placeat ea delectus, non rem eveniet ullam! Magnam, natus numquam? Sit, amet. Modi, sit sed.
+Ukraine Displaced Population to Hit 6.7 Million, World Pledges Financial Support
 
-![Chemex](/img/chemex.jpg)
+Over 20,000 Volunteers Join International Legion to Fight Against Russia
 
-Quis excepturi reiciendis beatae pariatur fugiat. Et delectus distinctio reprehenderit quos. Totam voluptas praesentium enim aut maxime eaque repellat nostrum nesciunt necessitatibus, sint ipsum harum deleniti quaerat ullam ea ipsam minima. Eligendi maxime quis atque sed molestiae, esse eos tempora perferendis ex.
+Updated on April 7, 2022
 
-## h2: Sub-heading
+by Save Ukraine EN No Comments on Over 20,000 Volunteers Join International Legion to Fight Against Russia
 
-Veniam, nobis. Quia saepe iure minus ab facere accusamus adipisci dolorem cupiditate non suscipit praesentium ipsam animi enim dolore ullam nihil omnis deleniti sequi eos sed ex, fugiat nam ipsum architecto. Consequatur quas similique inventore dolorem alias amet dignissimos vero distinctio nobis rem temporibus, qui assumenda et quam doloribus non. Quis excepturi reiciendis beatae pariatur fugiat. Et delectus distinctio reprehenderit quos
+Ukraine’s President Volodymyr Zelenskyy has announced the creation of the International Legion of Territorial Defense, designed to counter foreign aggression and preserve Ukraine’s sovereignty. The International Legion will be integrated as a regular battalion. Over 20,000 volunteers from 52 countries have signed up to fight for Ukraine, in a newly created International Legion, Ukraine’s Foreign Minister said. However, officials highlighted that they are looking for combat-experienced volunteers who do not need to undergo extensive training before being sent to the frontline, as there’s no time for training.  The exact number of volunteers and list of countries is not disclosed due to security reasons. However, According to The Kyiv Independent, the first volunteers came from the U.S., U.K., Sweden, Lithuania, Mexico, and India. The recruitment process is quite straightforward. To join the Foreign Legion of Territorial Defense of Ukraine, citizens should contact the Embassy of Ukraine in their country either by phone, email, or physically. A successful interview will be followed by a settlement of visa issues. After that, volunteers will be informed with detailed instructions on how to get to the meeting point. According to U.S. and European media reports, the volunteers willing to fight alongside Ukrainian military forces are quite diverse. Unlike the years of battles in Iraq and Afghanistan, some veterans are united by their determination to protect the Ukrainian people and defend their territory from Russian aggression, when it’s clear which side is right in Ukraine. At the same time, other volunteers are driven by strong emotions about the aggression, which they see on social networks. The Ukrainian Foreign Minister Dmytro Kuleba said: ‘The whole world today is on Ukraine’s side, not only in words but in deeds.’
 
-### h3: sub-sub-heading
+Tags: Russian Aggression War in Ukraine
 
-Est omnis mollitia officiis optio dolores quae veritatis rerum autem iure cum reiciendis, delectus qui labore, excepturi illo obcaecati quibusdam asperiores illum. Dolorum aliquam sit eum, illum ad, nostrum quaerat vitae corporis, laboriosam quasi iusto fugit! Natus explicabo fugiat fugit inventore voluptatum vel at ut temporibus. Qui dolorum voluptatem dolores, tenetur ex tempore eius doloribus fugiat quo esse officiis animi perspiciatis quod ea suscipit consequuntur earum nihil beatae distinctio? Laudantium, quod reprehenderit deleniti id dolore nostrum aliquid velit doloribus sint atque quidem quo beatae error officiis cumque unde, odit voluptate consequatur veritatis, maxime dolor libero magni autem
-
-### h3: sub-sub heading
-
-Corrupti, consequatur voluptates impedit blanditiis unde et nisi doloremque eaque voluptas ullam repudiandae, obcaecati error! Maxime adipisci molestias corrupti sint nostrum, sit accusantium dolor distinctio ipsam culpa sapiente soluta labore officiis earum quas amet dolorum illum, dolorem ea harum minima non alias, odio quos. Tempora mollitia dolores, provident natus autem culpa quae officia, sunt vitae nesciunt et explicabo omnis nemo similique dolorum a, asperiores ea optio architecto quaerat dolor odio. Doloremque obcaecati, velit dolores et dignissimos facilis odit, nulla id ducimus eius esse quam quibusdam? Aspernatur nam, amet assumenda voluptate excepturi sit magni omnis similique doloribus maiores quo autem atque odit nesciunt mollitia ab quibusdam corporis iure totam dolorum laboriosam a. Ratione vitae voluptatibus neque
+Post navigation Previous Post: Russia Escalates Attacks On Ukraine’s Civilian Areas, Destroying Maternity Hospital
