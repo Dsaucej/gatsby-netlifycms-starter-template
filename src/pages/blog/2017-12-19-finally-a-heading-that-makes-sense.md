@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Over 20,000 Volunteers Join International Legion to Fight Against Russia
-date: 2017-12-19T15:04:10.000Z
+date: 2022-07-19T12:46:23.770Z
 description: Russia Escalates Attacks On Ukraine’s Civilian Areas, Destroying
   Maternity Hospital
 featuredpost: true
