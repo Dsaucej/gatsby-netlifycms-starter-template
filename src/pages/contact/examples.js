@@ -11,8 +11,7 @@ export default class Index extends React.Component {
             <div className="content" style={{width: '60vw', margin: '1em auto'}}>
               <h1>Hi people</h1>
               <p>
-                This is an example site integrating Netlify’s form handling with
-                Gatsby
+                Sign up form
               </p>
               <ul>
                 <li>
