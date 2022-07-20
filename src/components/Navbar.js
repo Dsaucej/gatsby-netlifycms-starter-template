@@ -43,7 +43,7 @@ const Navbar = class extends React.Component {
             <Link to="/" className="navbar-item" title="Logo">
               <h1>Newsnips</h1>
             </Link>
-            <img src="logo.png"  width="100" height="120"></img>
+
               <GitHubButton href="">Follow</GitHubButton>
             {/* Hamburger menu */}
             <div
